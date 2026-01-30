@@ -1,9 +1,11 @@
 # Global XGBoost Framework for Large-Scale Energy Load Forecasting & Anomaly Detection
 
-> **BÁO CÁO KỸ THUẬT / TECHNICAL REPORT (Markdown Version)**
-> This README.md is a **full, faithful, and non-reductive Markdown transformation** of the original technical report.
-> **No content, assumptions, equations, or experimental details from the source document have been removed.**
-> Additional explanations, clarifications, and structural enrichments are provided **only to improve readability, reproducibility, and GitHub documentation quality**.
+Trương Xuân Huy - 2324802010044
+
+[![Video Giải Thích](https://img.youtube.com/vi/qlg4LrAk1NQ/maxresdefault.jpg)](https://youtu.be/qlg4LrAk1NQ)
+
+🔗 Link trực tiếp:  
+https://youtu.be/qlg4LrAk1NQ
 
 ---
 
