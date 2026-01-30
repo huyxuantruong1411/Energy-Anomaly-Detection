@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository presents a **global, end-to-end machine learning framework** for:
 
@@ -20,18 +20,14 @@ The framework was designed and validated on the **Building Data Genome Project 2
 
 ---
 
-## 👤 Author & Metadata
+##  Author & Metadata
 
 * **Author**: Trương Xuân Huy
 * **Date**: 29/01/2026
-* **Referenced Notebooks**:
-
-  * `XGBoost_Global_Final_Fixed.ipynb`
-  * `Demo_XGBoost_2.ipynb`
-
+* **Referencer**: TS. Dương Thị Kim Chi
 ---
 
-## 🧠 Abstract
+## Abstract
 
 This study proposes a comprehensive solution for large-scale electricity consumption forecasting and anomaly detection across a network of more than **1,600 buildings** (Building Data Genome Project 2).
 
@@ -45,7 +41,7 @@ The system integrates:
 
 For anomaly detection in an **unlabeled environment**, we introduce a **Contextual Adaptive Thresholding mechanism** grounded in **robust statistics (Median & IQR)**.
 
-### 🔍 Key Results (200-building simulation):
+### Key Results (200-building simulation):
 
 * **Forecasting RMSE**: ~14.7
 * **Anomaly Detection F1-score**: **0.957**
@@ -387,22 +383,17 @@ Achieved **F1 ≈ 0.96** in unlabeled anomaly detection.
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
-* Integrate weather variables (temperature, humidity)
 * Explore drift and contextual anomalies
 * Deploy as real-time inference API
 
 ---
 
-## 📚 References
+## References
 
 1. Miller, C., et al. *Building Data Genome Project 2*. Nature Scientific Data (2020)
 2. Chen, T., & Guestrin, C. *XGBoost: A Scalable Tree Boosting System*. KDD (2016)
 3. Stjelja, D., et al. *Energy & Buildings* (2024)
 4. Ambat, A., & Sahoo, J. *ETRI Journal* (2024)
 5. Alba, E. L., et al. *Forecasting* (2024)
-
----
-
-📌 *This README is intentionally verbose and research-grade, designed to function as both project documentation and a standalone technical report.*
