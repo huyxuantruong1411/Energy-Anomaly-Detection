@@ -1,0 +1,9 @@
+https://www.nature.com/articles/s41597-020-00712-x
+
+https://www.researchgate.net/publication/360027832_Limitations_of_machine_learning_for_building_energy_prediction_ASHRAE_Great_Energy_Predictor_III_Kaggle_competition_error_analysis
+
+https://www.researchgate.net/publication/364935840_Adaptive_Probabilistic_Load_Forecasting_for_Individual_Buildings
+
+https://www.mdpi.com/2227-9717/13/8/2599
+
+https://www.kaggle.com/code/chuanfutan/energy-consumption-forecasting-project
