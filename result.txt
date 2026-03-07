@@ -11,6 +11,8 @@ Mô hình hiện tại:
 
 Paper 1: Occupancy-Aware Spatio-Temporal Building Energy Forecasting with a Hybrid Long Short-Term Memory and Graph Neural Network (2026)
 
+Link: https://www.researchgate.net/publication/399801780_Occupancy-Aware_Spatio-Temporal_Building_Energy_Forecasting_with_a_Hybrid_Long_ShortTerm_Memory_and_Graph_Neural_Network_Benchmark_Using_Public_Datasets
+
 Abstract: Nghiên cứu này giải quyết bài toán dự báo năng lượng không gian-thời gian bằng cách đề xuất một kiến trúc mô hình lai (Hybrid LSTM-GNN). Điểm mới của paper là việc tích hợp đồ thị mô phỏng sự tương quan giữa các tòa nhà cùng với dữ liệu thời tiết và xác suất chiếm dụng (occupancy probabilities) trong khung dự báo chân trời từ t+1 đến t+24. Mô hình được benchmark quy mô lớn trên tập dữ liệu BDG2 (với 3.053 đồng hồ đo từ 1.636 tòa nhà).
 
 Kết quả đánh giá (Metrics) trên BDG2:
@@ -22,6 +24,8 @@ Kết quả đánh giá (Metrics) trên BDG2:
 ----------
 
 Paper 2: A Method for Selecting the Appropriate Source Domain Buildings for Building Energy Prediction in Transfer Learning (2025)
+
+Link: https://www.mdpi.com/1996-1073/18/14/3706
 
 Abstract: Thay vì tinh chỉnh siêu tham số phức tạp cho từng mô hình, bài báo này tập trung giải quyết tình trạng thiếu hụt dữ liệu huấn luyện (data scarcity) bằng kỹ thuật Học chuyển giao (Transfer Learning). Cụ thể, nó đề xuất một phương pháp dùng khoảng cách Euclidean và hệ số tương quan Pearson để chọn "tòa nhà nguồn" (source domain) nhằm học các trọng số và áp dụng thẳng cho dự báo tiêu thụ của một "tòa nhà đích".
 
